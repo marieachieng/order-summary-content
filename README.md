@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/marieachieng/order-summary-content.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://order-summarycontent.netlify.app/)
 
 ## My process
 
